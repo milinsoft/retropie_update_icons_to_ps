@@ -3,6 +3,7 @@
 Customize the navigation menu button icons in RetroPie to match your preferred layout.
 ![buttons_preview.png](buttons_preview.png)
 
+*some icons are different, the purpose of this image just to give you the idea. (feel free to check what icons included in this repo)
 ## Why Customize?
 
 If you want your RetroPie gaming experience to match your PS controller, it's time to change the button icons. 
